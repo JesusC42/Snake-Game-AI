@@ -1,0 +1,2 @@
+This is a Snake AI made to be able to beat the game every time. You just need to run the Snek.java file. The commented height and width values are different pairs for the window size. The generateHamiltonianCycle() method will either call an automatic generation of a Hamiltonian Cycle that works for any screen size
+or a manual generation with four different versions that only work for a specific screen size shown in a comment next to the method name. I cannot figure out how to make a random Hamiltonian Cycle generator, for now.
